@@ -25,10 +25,6 @@ html {
     color: #fff;
   }
 
-  .btn-ghost {
-    position: relative;
-  }
-
   .content {
     position: absolute;
     bottom: 0;
@@ -37,14 +33,10 @@ html {
     background-image: linear-gradient(to bottom, rgba(73, 85, 98, 0), rgba(73, 85, 98, .9));
   }
 
-  .text {
-    position: relative;
-  }
-
   .btn {
     color: #fff;
     position: absolute;
-    right: 1%;
+    right: 25%;
   }
 
 }
